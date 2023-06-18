@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.match-items {
+  display: flex;
+  width: 35vw;
+  background-color: #ffffff33;
+  border-radius: 4px;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 20px;
+  height: 160px;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+.team-name {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  padding-right: 10px;
+}

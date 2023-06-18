@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.match-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  width: 80vw;
+  border-radius: 16px;
+  padding-top: 12px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  margin-bottom: 24px;
+}
+.won-game {
+  color: #18ed66;
+}
+.logo {
+  max-width: 60px;
+  height: 40px;
+}
+.name {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  flex-grow: 1;
+}
+.lose {
+  color: #e31a1a;
+}
+.result {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 10px;
+}
